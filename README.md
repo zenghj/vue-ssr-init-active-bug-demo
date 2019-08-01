@@ -30,3 +30,5 @@
   <a href="https://m.baidu.com/index.php" @click="handleClick" data-test="client" class="client-render">xx client</a>
 </div>
 ```
+
+* [客户端激活 (client-side hydration)官方文档](https://ssr.vuejs.org/zh/guide/hydration.html)
